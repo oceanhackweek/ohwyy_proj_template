@@ -1,5 +1,5 @@
-# ohwyy_proj_template
-Template for starting Oceanhackweek project repos
+# ohwyy_proj_template_cc
+Template for starting Oceanhackweek project repos. Add country code (cc) in the end to indicate the location of your event (us/au).
 
 ## Project Name
 
