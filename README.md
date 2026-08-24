@@ -21,23 +21,21 @@ You can start with a simple structure and as you progress you can refine it to c
 
 ## One-line Description
 
-## Planning
-
 ## Collaborators
 
 | Name                | Role                |
 |---------------------|---------------------|
-| Participant 1       | Project Facilitator |
-| Participant 2       | Participant         |
-| Participant 3       | Participant         |
+| Participant 1       |  |
+| Participant 2       |  |
+| Participant 3       |  |
+
+
 
 ## Planning
 
 * Initial idea: "short description"
-* Ideation jam board: Add link
-* Ideation Presentation: Add link
-* Slack channel: ohw25_proj_name
-* Project google drive: Add link
+* Ideation Slide: Add link
+* Slack channel: ohw26_proj_name
 * Final presentation: Add link
 
 ## Background
